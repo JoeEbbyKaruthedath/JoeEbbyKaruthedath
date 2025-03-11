@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JoeEbbyKaruthedath an MS in Analytics student at Emory Univesity, Atlanta, USA.
-- 👀 I’m interested in Data Science opportunities in the United States.
-- 🌱 I’m currently doing my masters program with coursework on Machine Learning, Data Vizualization, Managing Big data, Social Network Analytics, Marketing Analytics, Sports Analytics, Decision Sciences and Optmization etc
+- 👋 Hi, I’m @JoeEbbyKaruthedath a data professional with an MS in Analytics student from Emory Univesity, Atlanta, USA.
+- 👀 I’m interested in Data Science/ Engineering opportunities in the United States.
+- 🌱 I’m currently a Senior Data Scientist with full stack abilities.
 - 📫 How to reach me joeebby12@gmail.com , www.linkedin.com/in/joeebby
 
 <!---
