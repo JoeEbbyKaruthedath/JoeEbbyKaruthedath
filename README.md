@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JoeEbbyKaruthedath a data professional with an MS in Analytics from Emory Univesity, Atlanta, USA.
-- 👀 I’m interested in Data Science/ Engineering opportunities in the United States.
+- 👋 Hi, I’m @JoeEbbyKaruthedath a data professional with an MS in Analytics from Emory Univesity, Atlanta.
+- 👀 I’m interested in Data Science/ ML Engineering opportunities in the United States.
 - 🌱 I’m currently a Senior Data Scientist with full stack abilities.
 - 📫 How to reach me joeebby12@gmail.com , www.linkedin.com/in/joeebby
 
