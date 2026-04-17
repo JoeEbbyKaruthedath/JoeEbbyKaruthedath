@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JoeEbbyKaruthedath a data professional with an MS in Analytics from Emory Univesity, Atlanta.
-- 🌱 I’m currently a Senior Data Scientist with full stack abilities.
+- 👋 Hi, I’m @JoeEbbyKaruthedath a Sr. Data Scientist at NTT Data
+- 🌱 My skillset is a mixture of AI/ML and Data engineering.
 - 📫 How to reach me joeebby12@gmail.com , www.linkedin.com/in/joeebby
 
 <!---
